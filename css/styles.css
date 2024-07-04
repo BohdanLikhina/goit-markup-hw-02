@@ -52,9 +52,7 @@ a {
 .nav-link:hover,
 .nav-link:focus,
 .contacts-link:hover,
-.contacts-link:focus,
-.button-section-one:hover,
-.button-section-one:focus {
+.contacts-link:focus {
     color: #404bbf;
 }
 
@@ -92,6 +90,11 @@ a {
     letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer;
+}
+
+.button-section-one:hover,
+.button-section-one:focus {
+    background-color: #404BBF;
 }
 
 .section-two {
